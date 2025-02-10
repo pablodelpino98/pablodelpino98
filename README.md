@@ -2,7 +2,7 @@
 
 # ¡HOLA! ✌️
 
-Soy **Pablo del Pino Cabrera**, estudiante de **Desarrollo de Aplicaciones Web** con pasión por la programación y el desarrollo tecnológico. Me especializo en el backend, pero también disfruto creando interfaces interactivas.
+Soy **Pablo del Pino Cabrera**, estudiante de **Desarrollo de Aplicaciones Web** con pasión por la programación y el desarrollo web. Disfruto aprendiendo tanto en back-end como creando interfaces atractivas e intuitivas.
 
 ## 🚀 Tecnologías que conozco
 
