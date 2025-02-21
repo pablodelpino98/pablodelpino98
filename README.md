@@ -4,7 +4,7 @@
 
 Soy **Pablo del Pino Cabrera**, estudiante de **Desarrollo de Aplicaciones Web** con pasión por la programación y el desarrollo web. Disfruto aprendiendo tanto en back-end como creando interfaces atractivas e intuitivas en front-end.
 
-## 🚀 Tecnologías que conozco
+## 🚀 Tecnologías
 
 ### 🖥️ Lenguajes de Programación:
 - Java ☕
